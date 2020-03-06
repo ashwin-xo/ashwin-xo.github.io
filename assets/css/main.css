@@ -25,6 +25,11 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+	.fmr1_submit{
+		
+		margin-top: 2em !important;
+		background: #e97770 url("images/overlay.png");
+	}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
